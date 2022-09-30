@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GymPal</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="cardio_menu_item">Motion</string>
+    <string name="Strength_menu_item">Styrka</string>
+    <string name="home_bar_title">Cardio</string>
+    <string name="result">Result</string>
+
+    <string name="start"><b>Start</b></string>
+    <string name="stop"><b>Stop</b></string>
+    <string name="time">Time</string>
+    <string name="distance">Distance</string>
+
+    <string name="meters_zero">000</string>
+    <string name="kilometers_zero">00</string>
+    <string name="kilometers_1_zero">0</string>
+    <string name="meters_2_zero">00</string>
+    <string name="meter_1_zero">0</string>
+
+    <string name="average_speed">Speed</string>
+
+    <string name="unit_time">Min</string>
+    <string name="unit_hour">h</string>
+    <string name="unit_sec">s</string>
+    <string name="unit_speed">km/h</string>
+    <string name="unit_distance">km</string>
+</resources>
